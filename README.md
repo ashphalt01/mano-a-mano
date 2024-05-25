@@ -1,2 +1,4 @@
 # mano-a-mano
-My first C++ project completed for my final year high school assignment
+C++ project submitted for my final year 2020 high school assignment, bugs and all
+
+Uses [olcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine) v2.06
